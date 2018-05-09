@@ -2528,10 +2528,10 @@ body {
   border-bottom-left-radius: 0;
 }
 .cid-qQfSwNvdl5 .card-wrapper .card-img .mbr-overlay {
-  background: #ffffff;
-  background: linear-gradient(135deg, #ffffff, #224687);
+  background: #224687;
+  background: linear-gradient(135deg, #224687, #ffffff);
   display: block;
-  opacity: 0.6;
+  opacity: 0.5;
   transition: all .3s;
   border-bottom-left-radius: 50%;
 }
@@ -2574,7 +2574,7 @@ body {
   opacity: 0;
 }
 .cid-qQfSwNvdl5 .popup-btn:hover .mbr-overlay {
-  opacity: 0.6;
+  opacity: 0.5;
   height: 100%;
 }
 .cid-qQfSwNvdl5 .popup-btn:hover .mbr-section-btn {
