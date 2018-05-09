@@ -2627,7 +2627,7 @@ body {
 }
 .cid-qQfUtA2cHy {
   padding-top: 105px;
-  padding-bottom: 120px;
+  padding-bottom: 75px;
   background-image: url("../../../assets/images/logomark-blue-761x761.png");
 }
 .cid-qQfUtA2cHy .container-fluid {
@@ -2817,6 +2817,65 @@ body {
 }
 .cid-qQc5ySyzBk H2 {
   color: #224687;
+}
+.cid-qRzauVior6 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qRzauVior6 .social-media {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 4rem;
+}
+.cid-qRzauVior6 .social-media ul {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 8px;
+}
+.cid-qRzauVior6 .social-media ul li {
+  padding: 4px;
+  display: inline-block;
+}
+.cid-qRzauVior6 .logo-section {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding-left: 4rem;
+}
+.cid-qRzauVior6 .icon-transition span {
+  color: #ffffff;
+  display: block;
+  padding: 0.1rem 0.9rem;
+  height: 4em;
+  line-height: 4em;
+  border-radius: 50%;
+  background-color: #224687;
+  width: 4em;
+  -webkit-transition: all 0.3s ease-out 0s;
+  transition: all 0.3s ease-out 0s;
+  font-size: 13px;
+}
+.cid-qRzauVior6 .icon-transition span:hover {
+  background-color: #cccccc;
+}
+.cid-qRzauVior6 .mbr-text {
+  color: #224687;
+}
+@media (max-width: 991px) {
+  .cid-qRzauVior6 .social-media {
+    justify-content: center;
+    padding-right: 0rem;
+  }
+  .cid-qRzauVior6 .logo-section {
+    justify-content: center;
+    padding-left: 0rem;
+    margin-bottom: 1.5rem;
+  }
+  .cid-qRzauVior6 .mbr-text {
+    margin-bottom: 1.5rem;
+  }
 }
 .cid-qQc6hmgBlq .dropdown-item:before {
   font-family: MobiriseIcons !important;
