@@ -1416,11 +1416,11 @@ body {
 }
 .cid-qQlBZJyl4O .mbr-section-title,
 .cid-qQlBZJyl4O .underline {
-  color: #000000;
+  color: #ffffff;
 }
 .cid-qQL2VV7WDc {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #cccccc;
 }
 .cid-qQL2VV7WDc .container-fluid {
@@ -1597,6 +1597,10 @@ body {
   color: #ffffff;
 }
 .cid-qQKYzlXpMI .panel-text {
+  color: #ffffff;
+}
+.cid-qQKYzlXpMI .mbr-section-title,
+.cid-qQKYzlXpMI .underline {
   color: #ffffff;
 }
 .cid-qQO5i4hE4E {
@@ -1779,6 +1783,10 @@ body {
   color: #ffffff;
 }
 .cid-qQO4bwD0ro .panel-text {
+  color: #ffffff;
+}
+.cid-qQO4bwD0ro .mbr-section-title,
+.cid-qQO4bwD0ro .underline {
   color: #ffffff;
 }
 .cid-qQfxLICPgi {
@@ -2501,7 +2509,6 @@ body {
 .cid-qQfSwNvdl5 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #224687;
 }
 .cid-qQfSwNvdl5 .mbr-section-subtitle {
   color: #ffffff;
@@ -2528,8 +2535,8 @@ body {
   border-bottom-left-radius: 0;
 }
 .cid-qQfSwNvdl5 .card-wrapper .card-img .mbr-overlay {
-  background: #224687;
-  background: linear-gradient(135deg, #224687, #ffffff);
+  background: #ffffff;
+  background: linear-gradient(135deg, #ffffff, #224687);
   display: block;
   opacity: 0.5;
   transition: all .3s;
@@ -2545,7 +2552,7 @@ body {
   margin: auto;
 }
 .cid-qQfSwNvdl5 .card-wrapper .card-box {
-  background-color: #224687;
+  background-color: #ffffff;
   padding: 0 2rem 2rem 2rem;
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
@@ -2558,6 +2565,7 @@ body {
 .cid-qQfSwNvdl5 .card-wrapper .card-box p {
   margin-bottom: 0;
   padding-top: 1.5rem;
+  padding-top: 2rem;
 }
 .cid-qQfSwNvdl5 .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
@@ -2603,7 +2611,7 @@ body {
   color: #ffffff;
 }
 .cid-qQfSwNvdl5 .card-title {
-  color: #ffffff;
+  color: #224687;
 }
 .cid-qRtATvYNcJ {
   padding-top: 30px;
@@ -2673,6 +2681,7 @@ body {
 }
 .cid-qQUC8HbWUQ .mbr-section-title {
   margin-bottom: 1.5em;
+  color: #224687;
 }
 .cid-qQUC8HbWUQ .input-main {
   width: 99.6%;
@@ -2717,6 +2726,9 @@ body {
     padding: 1rem 2rem;
     font-size: 16px !important;
   }
+}
+.cid-qQUC8HbWUQ .form-label-outside {
+  color: #224687;
 }
 .cid-qQc5ySyzBk {
   padding-top: 15px;
